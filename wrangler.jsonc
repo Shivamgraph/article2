@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "article2",
+  "compatibility_date": "2026-06-17",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "build-shivamgraph-hindi-blog"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
