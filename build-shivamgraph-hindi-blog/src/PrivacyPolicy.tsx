@@ -3,7 +3,7 @@ export default function PrivacyPolicy() {
     <>
       {```html
 <section className="privacy-policy-container" aria-labelledby="privacy-policy-heading">
-  <blog className="privacy-policy-content">
+  <article className="privacy-policy-content">
     <header>
       <h1 id="privacy-policy-heading">Privacy Policy</h1>
       <p><strong>Website:</strong> SHIVAMGRAPH</p>
