@@ -3,11 +3,11 @@ export default function PrivacyPolicy() {
     <>
       {```html
 <section className="privacy-policy-container" aria-labelledby="privacy-policy-heading">
-  <article className="privacy-policy-content">
+  <blog className="privacy-policy-content">
     <header>
       <h1 id="privacy-policy-heading">Privacy Policy</h1>
       <p><strong>Website:</strong> SHIVAMGRAPH</p>
-      <p><strong>URL:</strong> <a href="https://article.shivamgraph.in" target="_blank" rel="noopener noreferrer">https://article.shivamgraph.in</a></p>
+      <p><strong>URL:</strong> <a href="https://blog.shivamgraph.in" target="_blank" rel="noopener noreferrer">https://blog.shivamgraph.in</a></p>
       <p><strong>Tagline:</strong> जागो। समझो। काबिल बनो।</p>
       <p><strong>Last Updated:</strong> July 2026</p>
     </header>
@@ -16,7 +16,7 @@ export default function PrivacyPolicy() {
       <h2>Introduction</h2>
       <p>
         Welcome to <strong>SHIVAMGRAPH</strong> (“we”, “our”, or “us”), accessible at
-        <a href="https://article.shivamgraph.in" target="_blank" rel="noopener noreferrer"> https://article.shivamgraph.in</a>.
+        <a href="https://blog.shivamgraph.in" target="_blank" rel="noopener noreferrer"> https://blog.shivamgraph.in</a>.
         Your privacy is critically important to us. This Privacy Policy document explains what
         information we collect, how we use it, and the choices you have regarding your data when
         you visit or interact with our Hindi educational platform focused on psychology, neuroscience,
@@ -165,7 +165,7 @@ export default function PrivacyPolicy() {
       <h2>8. Newsletter &amp; Email Collection</h2>
       <p>
         When you subscribe to the SHIVAMGRAPH newsletter, we collect your email address (and
-        optionally your name) to send you educational content, updates, articles, and
+        optionally your name) to send you educational content, updates, blogs, and
         occasional promotional material.
       </p>
       <ul>
@@ -254,7 +254,7 @@ export default function PrivacyPolicy() {
         personal data, please contact us:
       </p>
       <address>
-        <p><strong>Website:</strong> <a href="https://article.shivamgraph.in" target="_blank" rel="noopener noreferrer">SHIVAMGRAPH</a></p>
+        <p><strong>Website:</strong> <a href="https://blog.shivamgraph.in" target="_blank" rel="noopener noreferrer">SHIVAMGRAPH</a></p>
         <p><strong>Email:</strong> <a href="mailto:shivamchauhangurjar@gmail.com">shivamchauhangurjar@gmail.com</a></p>
       </address>
     </section>
@@ -262,7 +262,7 @@ export default function PrivacyPolicy() {
     <footer>
       <p><em>By using SHIVAMGRAPH, you acknowledge that you have read, understood, and agreed to this Privacy Policy.</em></p>
     </footer>
-  </article>
+  </blog>
 </section>
 ```}
     </>
